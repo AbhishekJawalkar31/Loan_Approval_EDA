@@ -50,11 +50,11 @@ Asset Information
 To be updated
 
 # Tools used:
-* Python
-* NumPy
-* pandas
-* Matlotlib
-* Seaborn
+* Python - Programming Language
+* NumPy - Numerical Computation
+* pandas - Data Cleaning and Processing
+* Matlotlib - Data Visualization
+* Seaborn - Advanced Data Visualization
 
 
 
