@@ -1,4 +1,4 @@
 # Finance Loan Approval Prediction - Exploratory Data Analysis
-This is my first Git Project <br>
-Hello this is Abhishek Jawalkar
+A comprehensive Exploratory Data Analysis (EDA) project to analyse data for home loan approval of customers and various factors that influenced lending decisions. <br>
+
 
