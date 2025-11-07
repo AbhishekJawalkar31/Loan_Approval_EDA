@@ -54,7 +54,7 @@ To be updated
 * Python - Programming Language
 * NumPy - Numerical Computation
 * pandas - Data Cleaning and Processing
-* Matlotlib - Data Visualization
+* Matplotlib - Data Visualization
 * Seaborn - Advanced Data Visualization
 
 
