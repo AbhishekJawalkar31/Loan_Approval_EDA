@@ -51,9 +51,9 @@ To be updated
 
 # Tools used:
 * Python
-* Numpy
-* Pandas
-* Matplotlib
+* NumPy
+* pandas
+* Matlotlib
 * Seaborn
 
 
