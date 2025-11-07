@@ -9,13 +9,14 @@ This project performs in-depth data analysis of home loan applications of over 6
 * Data cleaning and pre-processing
 * Perform Exploratory Data Analysis (EDA)
 * Examine relationship between applicant's characteristics and approval of loan
-* Find reasons for disapproval of loan
+* Find causes for disapproval of loan
 * Generate practical insights for financial institutions
 * Study practically on how EDA works
 
 # Dataset Description
 Source <br>
 'Finance Loan approval Prediction Data' - Kaggle
+https://www.kaggle.com/datasets/krishnaraj30/finance-loan-approval-prediction-data?select=train.csv
 
 # Dataset Size
 No. of applicants: 614 (Exact) <br>
