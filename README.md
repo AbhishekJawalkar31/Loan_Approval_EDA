@@ -1,4 +1,4 @@
-# Finance Loan Approval Prediction - Exploratory Data Analysis
+# Finance Loan Approval Prediction - <br>Exploratory Data Analysis
 A comprehensive Exploratory Data Analysis (EDA) project to analyse data for home loan approval of customers and various factors that influenced lending decisions. <br>
 
 # Project Overview 
@@ -20,7 +20,7 @@ Source <br>
 # Dataset Size
 No. of applicants: 614 (Exact) <br>
 Columns: 13 Total <br>
-Target Variable: Loan Status
+Target Variable: Loan Status (Approved/Disapproved)
 
 # Columns
 Characteristic Information: 
@@ -45,6 +45,16 @@ Finance Information
 Asset Information
 * ApplicantIncome
 * Property_Area
+
+# Project Structure
+To be updated
+
+# Tools used:
+* Python
+* Numpy
+* Pandas
+* Matplotlib
+* Seaborn
 
 
 
