@@ -3,9 +3,9 @@ The exploratory data analysis on the home loan approval dataset revealed signifi
 
 ## Income Distributions
 
-The majority of applicants and co-applicants are concentrated between ₹10,000–₹40,000 total income, reflecting a market focused on lower-income households. Applications from higher income brackets (>₹50,000) are rare, especially among co-applicants.​
+* The majority of applicants and co-applicants are concentrated between ₹10,000–₹40,000 total income, reflecting a market focused on lower-income households. Applications from higher income brackets (>₹50,000) are rare, especially among co-applicants.​
 
-Most requested loan amounts are between ₹70,000–₹2,00,000, with fewer applications for higher amounts.​
+* Most requested loan amounts are between ₹70,000–₹2,00,000, with fewer applications for higher amounts.​
 
 ## Loan Amount Term
 
@@ -13,47 +13,46 @@ A 360-month (30-year) tenure is the default and most popular choice. Short-term 
 
 ## Approval Factors
 
-Credit History dominates loan approval decisions. Applicants with a positive credit history had a substantially higher approval rate (~43% correlation with loan status). Those without were consistently neglected by financial institutions.​
+* Credit History dominates loan approval decisions. Applicants with a positive credit history had a substantially higher approval rate (~43% correlation with loan status). Those without were consistently neglected by financial institutions.​
 
-Income level (applicant, co-applicant, total) showed only weak–moderate positive correlation with approved loan amount, indicating lenders care more about financial health and credit history than absolute income for decisions.​
+* Income level (applicant, co-applicant, total) showed only weak–moderate positive correlation with approved loan amount, indicating lenders care more about financial health and credit history than absolute income for decisions.​
 
-Employment status ("Employed" vs "Self-Employed") did not significantly affect approval rates; both groups experienced nearly equal success (∼78–79%), suggesting lending is based more on holistic eligibility assessment than job type.​
+* Employment status ("Employed" vs "Self-Employed") did not significantly affect approval rates; both groups experienced nearly equal success (∼78–79%), suggesting lending is based more on holistic eligibility assessment than job type.​
 
 ## Other Observed Patterns
 
-Applications for longer tenures and smaller loan amounts have higher approval rates.
+* Applications for longer tenures and smaller loan amounts have higher approval rates.
 
-There are clear clusters in the data for ideal approval candidates: those with family income under ₹25,000, loan amounts below ₹4,00,000, and positive credit history are most favored.​
+* There are clear clusters in the data for ideal approval candidates: those with family income under ₹25,000, loan amounts below ₹4,00,000, and positive credit history are most favored.​
 
 ## Business Recommendations
 Based on the insights above, actionable strategies for banks and financial institutions include:
 
-Focus on Credit History Verification
+* Focus on Credit History Verification
 
-Prioritize robust credit history checks as a primary step in the loan application process, given its strong predictive power for approvals.​
+* Prioritize robust credit history checks as a primary step in the loan application process, given its strong predictive power for approvals.​
 
-Develop products/services specifically tailored to applicants with limited or no credit history (e.g., micro-loans, secured loans, or programs for first-time borrowers).
+* Develop products/services specifically tailored to applicants with limited or no credit history (e.g., micro-loans, secured loans, or programs for first-time borrowers).
 
-Segment Product Offerings
+## Segment Product Offerings
 
-Target loan products towards the largest applicant segments (lower-income groups, 360-month tenure, smaller loan amounts), as these are most successful and represent the bulk of demand.​
+* Target loan products towards the largest applicant segments (lower-income groups, 360-month tenure, smaller loan amounts), as these are most successful and represent the bulk of demand.​
 
-Provide financial education and counseling to applicants in higher risk segments (low income, no/poor credit history).
+* Provide financial education and counseling to applicants in higher risk segments (low income, no/poor credit history).
 
 ## Limitations and Assumptions
-Data Limitations
 
-The dataset is limited in size (~614 samples), lacks time-series granularity, and may not fully represent regional or seasonal variations.​
+* The dataset is limited in size (~614 samples), lacks time-series granularity, and may not fully represent regional or seasonal variations.​
 
-The analysis assumes imputed missing values are accurate and do not introduce bias. Some categories (e.g., high-income, very large loan amounts, special tenures) are underrepresented, limiting generalizability.​
+* The analysis assumes imputed missing values are accurate and do not introduce bias. Some categories (e.g., high-income, very large loan amounts, special tenures) are underrepresented, limiting generalizability.​
 
-Some features, such as property area or education, may affect real-world outcomes but are less predictive here due to sample bias.
+* Some features, such as property area or education, may affect real-world outcomes but are less predictive here due to sample bias.
 
 ## Analytical Assumptions
 
-Assumes all variables coded and transformed correctly (e.g., "Y"/"N" to 1/0).
+* Assumes all variables coded and transformed correctly (e.g., "Y"/"N" to 1/0).
 
-Assumes credit history is an objective record, though it may not always reflect true financial stability.
+* Assumes credit history is an objective record, though it may not always reflect true financial stability.
 
 ## Causal Limitations
 
