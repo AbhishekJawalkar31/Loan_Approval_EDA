@@ -1,7 +1,7 @@
 # Key Insights and Patterns <br>
 The exploratory data analysis on the home loan approval dataset revealed significant statistical and practical patterns:
 
-Income Distributions
+## Income Distributions
 
 The majority of applicants and co-applicants are concentrated between ₹10,000–₹40,000 total income, reflecting a market focused on lower-income households. Applications from higher income brackets (>₹50,000) are rare, especially among co-applicants.​
 
@@ -38,17 +38,7 @@ Segment Product Offerings
 
 Target loan products towards the largest applicant segments (lower-income groups, 360-month tenure, smaller loan amounts), as these are most successful and represent the bulk of demand.​
 
-Consider differentiated marketing or approval strategies based on tenure and loan amount clusters.
-
-Improve Data Collection and Preprocessing
-
-Ensure accurate reporting and updating of applicant income, loan terms, employment status, and credit history.
-
 Provide financial education and counseling to applicants in higher risk segments (low income, no/poor credit history).
-
-Flexible Underwriting Criteria
-
-Since employment type is not a major factor, avoid rigid distinctions between salaried and self-employed applicants in approval rules.
 
 Limitations and Assumptions
 Data Limitations
