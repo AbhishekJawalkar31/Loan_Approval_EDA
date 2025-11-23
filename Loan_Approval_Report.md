@@ -13,11 +13,11 @@ A 360-month (30-year) tenure is the default and most popular choice. Short-term 
 
 ## Approval Factors
 
-* Credit History dominates loan approval decisions. Applicants with a positive credit history had a substantially higher approval rate (~43% correlation with loan status). Those without were consistently neglected by financial institutions.​
+Credit History dominates loan approval decisions. Applicants with a positive credit history had a substantially higher approval rate (~43% correlation with loan status). Those without were consistently neglected by financial institutions.​
 
-* Income level (applicant, co-applicant, total) showed only weak–moderate positive correlation with approved loan amount, indicating lenders care more about financial health and credit history than absolute income for decisions.​
+Income level (applicant, co-applicant, total) showed only weak–moderate positive correlation with approved loan amount, indicating lenders care more about financial health and credit history than absolute income for decisions.​
 
-* Employment status ("Employed" vs "Self-Employed") did not significantly affect approval rates, both groups experienced nearly equal success (∼78–79%), suggesting lending is based more on the ability to pay off loan than job type.​
+Employment status ("Employed" vs "Self-Employed") did not significantly affect approval rates, both groups experienced nearly equal success (∼78–79%), suggesting lending is based more on the ability to pay off loan than job type.​
 
 ## Other Observed Patterns
 
