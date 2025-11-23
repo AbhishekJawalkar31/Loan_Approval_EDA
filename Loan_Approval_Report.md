@@ -1,4 +1,4 @@
-Key Insights and Patterns <br>
+# Key Insights and Patterns <br>
 The exploratory data analysis on the home loan approval dataset revealed significant statistical and practical patterns:
 
 Income Distributions
