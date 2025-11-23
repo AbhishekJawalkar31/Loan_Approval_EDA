@@ -3,7 +3,7 @@ The exploratory data analysis on the home loan approval dataset revealed signifi
 
 ## Income Distributions
 
-* The majority of applicants and co-applicants are concentrated between ₹10,000–₹40,000 total income, reflecting a market focused on lower-income households. Applications from higher income brackets (>₹50,000) are rare, especially among co-applicants.​
+* The majority of applicants and co-applicants are concentrated between ₹10,000–₹40,000 total income, reflecting a market focused on lower-income households. Applications from higher income brackets (>₹50,000) are rare and constitute a thin segment.
 
 * Most requested loan amounts are between ₹70,000–₹2,00,000, with fewer applications for higher amounts.​
 
