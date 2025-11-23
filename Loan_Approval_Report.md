@@ -21,38 +21,38 @@ Employment status ("Employed" vs "Self-Employed") did not significantly affect a
 
 ## Other Observed Patterns
 
-* Applications for longer tenures and smaller loan amounts have higher approval rates.
+Applications for longer tenures and smaller loan amounts have higher approval rates.
 
-* There are clear clusters in the data for ideal approval candidates: those with family income under ₹25,000, loan amounts below ₹4,00,000, and positive credit history are most favored.​
+There are clear clusters in the data for ideal approval candidates: those with family income under ₹25,000, loan amounts below ₹4,00,000, and positive credit history are most favored.​
 
 ## Business Recommendations
 Based on the insights above, actionable strategies for banks and financial institutions include:
 
-* Focus on Credit History Verification.
+Focus on Credit History Verification.
 
-* Prioritize robust credit history checks as a primary step in the loan application process, given its strong predictive power for approvals.​
+Prioritize robust credit history checks as a primary step in the loan application process, given its strong predictive power for approvals.​
 
-* Develop products/services specifically tailored to applicants with limited or no credit history (e.g., micro-loans, secured loans, or programs for first-time borrowers) to differentate and stand out among competitors, attracting more applicants.
+Develop products/services specifically tailored to applicants with limited or no credit history (e.g., micro-loans, secured loans, or programs for first-time borrowers) to differentate and stand out among competitors, attracting more applicants.
 
 ## Segment Product Offerings
 
-* Target loan products towards the largest applicant segments (lower-income groups, 360-month tenure, smaller loan amounts, having credit history), as these are most successful and represent the bulk of demand.​
+Target loan products towards the largest applicant segments (lower-income groups, 360-month tenure, smaller loan amounts, having credit history), as these are most successful and represent the bulk of demand.​
 
-* Provide financial education and counseling to applicants in higher risk segments (low income, no/poor credit history or first time borrowers).
+Provide financial education and counseling to applicants in higher risk segments (low income, no/poor credit history or first time borrowers).
 
 ## Limitations and Assumptions
 
-* The dataset is limited in size (~614 rows), and may not fully represent market variations and trends from past few years and should be considerded as a demo dataset to understand basics.​
+The dataset is limited in size (~614 rows), and may not fully represent market variations and trends from past few years and should be considerded as a demo dataset to understand basics.​
 
-* The analysis assumes imputed missing values are accurate and do not introduce bias. Some categories (e.g., high-income, very large loan amounts, special tenures) are underrepresented.​
+The analysis assumes imputed missing values are accurate and do not introduce bias. Some categories (e.g., high-income, very large loan amounts, special tenures) are underrepresented.​
 
-* Some features, such as property area or education, may affect real-world outcomes but are less predictive here due to sample bias.
+Some features, such as property area or education, may affect real-world outcomes but are less predictive here due to sample bias.
 
 ## Analytical Assumptions
 
-* Assumes all variables coded and transformed correctly (e.g., "Y"/"N" to 1/0).
+Assumes all variables coded and transformed correctly (e.g., "Y"/"N" to 1/0).
 
-* Assumes credit history is an objective record, though it may not always reflect true financial stability.
+Assumes credit history is an objective record, though it may not always reflect true financial stability.
 
 ## Causal Limitations
 
