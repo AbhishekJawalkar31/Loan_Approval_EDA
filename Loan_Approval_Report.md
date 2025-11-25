@@ -1,4 +1,4 @@
-# Key Insights and Patterns <br>
+ # Key Insights and Patterns <br>
 The exploratory data analysis on the home loan approval dataset revealed significant statistical and practical patterns:
 
 ## Income Distributions
@@ -33,6 +33,10 @@ Focus on Credit History Verification.
 Prioritize robust credit history checks as a primary step in the loan application process, given its strong predictive power for approvals.​
 
 Develop products/services specifically tailored to applicants with limited or no credit history (e.g., micro-loans, secured loans, or programs for first-time borrowers) to differentate and stand out among competitors, attracting more applicants.
+
+Banks should prioritize applications for Lower Loan Amounts i.e. in the range (₹70000-₹200000) since majority askings falls in this range.
+
+Institutions might consider developing customized financial products such as flexible repayment plans, lower interest rates, or quicker approval processes explicitly designed for these loan sizes to enhance customer satisfaction and market competitiveness.
 
 ## Segment Product Offerings
 
