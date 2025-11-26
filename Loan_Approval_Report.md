@@ -38,6 +38,16 @@ Banks should prioritize applications for Lower Loan Amounts i.e. in the range (�
 
 Institutions might consider developing customized financial products such as flexible repayment plans, lower interest rates, or quicker approval processes explicitly designed for these loan sizes to enhance customer satisfaction and market competitiveness.
 
+The Loan Term of 360 months (30 Year) plan is the most common and shows that the affordability and cash flow management are the primary customer concerns, hence, offer marginal rate reductions (0.25-0.5%) for borrowers willing to opt for shorter 180-240 month terms, positioning this as a value-add while reducing the financial institutional risk and prevent potential loan defaults.
+
+Nearly 71% of loan applications originate from urban and semi-urban areas, with semi-urban properties emerging as the highest-approval tier (77%). This statistic represents a significant business opportunity that financial institutions should actively develop.
+
+Semi-urban borrowers often have informal income sources (small businesses, freelancing) that don't fit metro verification standards. Implement technology-driven income verification using GST records, bank statements, and alternative data scoring instead of requiring formal employment letters.
+
+Urban properties account for approximately 38.8% of loan applications with a 66% approval rate—notably lower than semi-urban (77%) but higher than rural (61%). This moderate positioning presents distinct strategic opportunities:
+
+Metro cities concentrate wealth, and professional-class borrowers (IT, finance, healthcare) seek premium housing. Develop specialized loan products for this segment with streamlined approvals and higher loan-to-value ratios.
+
 ## Segment Product Offerings
 
 Target loan products towards the largest applicant segments (lower-income groups, 360-month tenure, smaller loan amounts, having credit history), as these are most successful and represent the bulk of demand.​
