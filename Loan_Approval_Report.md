@@ -28,25 +28,25 @@ There are clear clusters in the data for ideal approval candidates: those with f
 ## Business Recommendations
 Based on the insights above, actionable strategies for banks and financial institutions include:
 
-Focus on Credit History Verification.
+* Focus on Credit History Verification.
 
-Prioritize robust credit history checks as a primary step in the loan application process, given its strong predictive power for approvals.​
+* Prioritize robust credit history checks as a primary step in the loan application process, given its strong predictive power for approvals.​
 
-Develop products/services specifically tailored to applicants with limited or no credit history (e.g., micro-loans, secured loans, or programs for first-time borrowers) to differentate and stand out among competitors, attracting more applicants.
+* Develop products/services specifically tailored to applicants with limited or no credit history (e.g., micro-loans, secured loans, or programs for first-time borrowers) to differentate and stand out among competitors, attracting more applicants.
 
-Banks should prioritize applications for Lower Loan Amounts i.e. in the range (₹70000-₹200000) since majority askings falls in this range.
+* Banks should prioritize applications for Lower Loan Amounts i.e. in the range (₹70000-₹200000) since majority askings falls in this range.
 
-Institutions might consider developing customized financial products such as flexible repayment plans, lower interest rates, or quicker approval processes explicitly designed for these loan sizes to enhance customer satisfaction and market competitiveness.
+* Institutions might consider developing customized financial products such as flexible repayment plans, lower interest rates, or quicker approval processes explicitly designed for these loan sizes to enhance customer satisfaction and market competitiveness.
 
-The Loan Term of 360 months (30 Year) plan is the most common and shows that the affordability and cash flow management are the primary customer concerns, hence, offer marginal rate reductions (0.25-0.5%) for borrowers willing to opt for shorter 180-240 month terms, positioning this as a value-add while reducing the financial institutional risk and prevent potential loan defaults.
+* The Loan Term of 360 months (30 Year) plan is the most common and shows that the affordability and cash flow management are the primary customer concerns, hence, offer marginal rate reductions (0.25-0.5%) for borrowers willing to opt for shorter 180-240 month terms, positioning this as a value-add while reducing the financial institutional risk and prevent potential loan defaults.
 
-Nearly 71% of loan applications originate from urban and semi-urban areas, with semi-urban properties emerging as the highest-approval tier (77%). This statistic represents a significant business opportunity that financial institutions should actively develop.
+* Nearly 71% of loan applications originate from urban and semi-urban areas, with semi-urban properties emerging as the highest-approval tier (77%). This statistic represents a significant business opportunity that financial institutions should actively develop.
 
-Semi-urban borrowers often have informal income sources (small businesses, freelancing) that don't fit metro verification standards. Implement technology-driven income verification using GST records, bank statements, and alternative data scoring instead of requiring formal employment letters.
+* Semi-urban borrowers often have informal income sources (small businesses, freelancing) that don't fit metro verification standards. Implement technology-driven income verification using GST records, bank statements, and alternative data scoring instead of requiring formal employment letters.
 
-Urban properties account for approximately 38.8% of loan applications with a 66% approval rate—notably lower than semi-urban (77%) but higher than rural (61%). This moderate positioning presents distinct strategic opportunities:
+* Urban properties account for approximately 38.8% of loan applications with a 66% approval rate—notably lower than semi-urban (77%) but higher than rural (61%). This moderate positioning presents distinct strategic opportunities:
 
-Metro cities concentrate wealth, and professional-class borrowers (IT, finance, healthcare) seek premium housing. Develop specialized loan products for this segment with streamlined approvals and higher loan-to-value ratios.
+* Metro cities concentrate wealth, and professional-class borrowers (IT, finance, healthcare) seek premium housing. Develop specialized loan products for this segment with streamlined approvals and higher loan-to-value ratios.
 
 ## Segment Product Offerings
 
