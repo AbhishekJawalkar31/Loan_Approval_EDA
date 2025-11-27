@@ -59,18 +59,18 @@ Loan_Approval_EDA.ipynb:
 Loan_Approval_Report.md
 
 Key Insights and Patterns 
-│
+│ <br>
 ├─► Income Distributions <br>
 ├─► Loan Amount Term <br>
 ├─► Approval Factors <br>
 └─► Other Observed Patterns <br>
 
 Business Recommendations <br>
-│
+│ <br>
 └─► Segment Product Offerings <br>
 
 Limitations and Assumptions <br>
-│
+│ <br>
 ├─► Analytical Assumptions <br>
 └─► Other Limitations <br>
 
