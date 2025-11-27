@@ -72,7 +72,7 @@ Assumes credit history is an objective record, though it may not always reflect 
 
 ## Other Limitations
 
-The analysis is mainly correlational, causal influences cannot be definitively established (e.g., credit history vs. actual repayment ability).
+The analysis is mainly correlational, more influences cannot be definitively established (e.g., credit history vs. actual repayment ability).
 
 ## Conclusion and Next Steps
 This analysis provides valuable direction for data-driven home loan approval policies. Key findings emphasize the importance of credit history and reveal concentration in lower income, smaller loan, default tenure segments, educated and married applicants with applications for properties in urban and semi-urban areas to attract the ideal loan seekers. However, the sample does not capture all market variations.
