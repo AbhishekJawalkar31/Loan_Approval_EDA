@@ -46,7 +46,15 @@ Asset Information
 * Property_Area
 
 # Project Structure
-To be updated
+Loan_Approval_EDA.ipynb: 
+
+├─►Data Loading & Initial Inspection <br>
+├─► Data Understanding (shape, statistics, datatypes) <br>
+├─► Data Cleaning & Preprocessing <br>
+├─► Univariate Analysis (distribution of single variables) <br>
+├─► Bivariate Analysis (feature vs target) <br>
+├─► Multivariate Analysis (interactions between features) <br>
+├─► Correlation Analysis <br>
 
 # Tools used:
 * Python - Programming Language
