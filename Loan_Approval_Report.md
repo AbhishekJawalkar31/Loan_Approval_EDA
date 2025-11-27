@@ -48,6 +48,8 @@ Based on the insights above, actionable strategies for banks and financial insti
 
 * Metro cities concentrate wealth, and professional-class borrowers (IT, finance, healthcare) seek premium housing. Develop specialized loan products for this segment with streamlined approvals and higher loan-to-value ratios.
 
+* Financial institutions should create focused marketing campaigns for graduate professionals and married couples, and partnering with educational institutions and professional organizations to reach graduate populations more effectively, since these profiles are perceived with lower default risk and greater financial stability.
+
 ## Segment Product Offerings
 
 Target loan products towards the largest applicant segments (lower-income groups, 360-month tenure, smaller loan amounts, having credit history), as these are most successful and represent the bulk of demand.​
