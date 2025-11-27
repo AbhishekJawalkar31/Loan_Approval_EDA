@@ -46,7 +46,9 @@ Asset Information
 * Property_Area
 
 # Project Structure
-Loan_Approval_EDA.ipynb: 
+1. Loan_Approval_Dataset.csv
+
+2. Loan_Approval_EDA.ipynb: 
 
 ├─►Data Loading & Initial Inspection <br>
 ├─► Data Understanding (shape, statistics, datatypes) <br>
@@ -56,7 +58,7 @@ Loan_Approval_EDA.ipynb:
 ├─► Multivariate Analysis (interactions between features) <br>
 ├─► Correlation Analysis <br>
 
-Loan_Approval_Report.md
+3. Loan_Approval_Report.md
 
 Key Insights and Patterns <br>
 │ <br>
