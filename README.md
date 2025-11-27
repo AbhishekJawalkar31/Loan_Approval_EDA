@@ -1,5 +1,5 @@
 # Finance Loan Approval Prediction - <br>Exploratory Data Analysis
-A comprehensive Exploratory Data Analysis (EDA) project to analyse data of an unknown financial institution for home loan approval of customers and various factors that influenced lending decisions. <br>
+A comprehensive Exploratory Data Analysis (EDA) project to analyse data of an anonymous financial institution for home loan approval of customers and various factors that influenced lending decisions. <br>
 
 # Project Overview 
 This project performs in-depth data analysis of home loan applications of over 600+ applicants. The analysis focuses on understanding various factors like the customer's Education, Income, Demographics and several key factors that played crucial role on approval of home loan as well as underlying reasons on how several customers got rejected in the lending process. 
