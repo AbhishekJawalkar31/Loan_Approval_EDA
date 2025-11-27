@@ -27,21 +27,21 @@ Characteristic Information:
 * Gender
 * Married
 
-Career Information
+Career Information:
 * Education
 * Self_Employed
 
-Family Information
+Family Information:
 * Dependants
 * CoapplicantIncome
 
-Finance Information
+Finance Information:
 * LoanAmount
 * Loan_Amount_Term
 * Credit History
 * Loan Status
 
-Asset Information
+Asset Information:
 * ApplicantIncome
 * Property_Area
 
