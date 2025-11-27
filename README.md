@@ -56,6 +56,28 @@ Loan_Approval_EDA.ipynb:
 ├─► Multivariate Analysis (interactions between features) <br>
 ├─► Correlation Analysis <br>
 
+Loan_Approval_Report.md
+
+Key Insights and Patterns 
+│
+├─► Income Distributions <br>
+├─► Loan Amount Term <br>
+├─► Approval Factors <br>
+└─► Other Observed Patterns <br>
+
+Business Recommendations <br>
+│
+└─► Segment Product Offerings <br>
+
+Limitations and Assumptions <br>
+│
+├─► Analytical Assumptions <br>
+└─► Other Limitations <br>
+
+Conclusion and Next Steps
+
+
+
 # Tools used:
 * Python - Programming Language
 * NumPy - Numerical Computation
