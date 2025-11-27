@@ -8,7 +8,7 @@ This project performs in-depth data analysis of home loan applications of over 6
 * Understand thoroughly the structure of data
 * Data cleaning and pre-processing
 * Perform Exploratory Data Analysis (EDA)
-* Examine relationship between applicant's characteristics and approval of loan
+* Examine relationship between applicant's characteristics and approval of home loan
 * Generate practical insights for financial institutions
 
 # Dataset Description
@@ -46,37 +46,48 @@ Asset Information
 * Property_Area
 
 # Project Structure
+
 1. Loan_Approval_Dataset.csv
 
-2. Loan_Approval_EDA.ipynb: 
+2. Loan_Approval_EDA.ipynb<br>
+   │<br>
+   ├─► Data Loading & Initial Inspection<br>
+   │<br>
+   ├─► Data Understanding (shape, statistics, datatypes)<br>
+   │<br>
+   ├─► Data Cleaning & Preprocessing<br>
+   │<br>
+   ├─► Univariate Analysis (distribution of single variables)<br>
+   │<br>
+   ├─► Bivariate Analysis (feature vs target)<br>
+   │<br>
+   ├─► Multivariate Analysis (interactions between features)<br>
+   │<br>
+   └─► Correlation Analysis<br>
 
-├─►Data Loading & Initial Inspection <br>
-├─► Data Understanding (shape, statistics, datatypes) <br>
-├─► Data Cleaning & Preprocessing <br>
-├─► Univariate Analysis (distribution of single variables) <br>
-├─► Bivariate Analysis (feature vs target) <br>
-├─► Multivariate Analysis (interactions between features) <br>
-├─► Correlation Analysis <br>
-
-3. Loan_Approval_Report.md
-
-Key Insights and Patterns <br>
-│ <br>
-├─► Income Distributions <br>
-├─► Loan Amount Term <br>
-├─► Approval Factors <br>
-└─► Other Observed Patterns <br>
-
-Business Recommendations <br>
-│ <br>
-└─► Segment Product Offerings <br>
-
-Limitations and Assumptions <br>
-│ <br>
-├─► Analytical Assumptions <br>
-└─► Other Limitations <br>
-
-Conclusion and Next Steps
+3. Loan_Approval_Report.md<br>
+   │<br>
+   ├─► Key Insights and Patterns<br>
+   │   │<br>
+   │   ├─► Income Distributions<br>
+   │   │<br>
+   │   ├─► Loan Amount Term<br>
+   │   │<br>
+   │   ├─► Approval Factors<br>
+   │   │<br>
+   │   └─► Other Observed Patterns<br>
+   │<br>
+   ├─► Business Recommendations<br>
+   │   │<br>
+   │   └─► Segment Product Offerings<br>
+   │<br>
+   ├─► Limitations and Assumptions<br>
+   │   │<br>
+   │   ├─► Analytical Assumptions<br>
+   │   │<br>
+   │   └─► Other Limitations<br>
+   │<br>
+   └─► Conclusion and Next Steps
 
 
 
