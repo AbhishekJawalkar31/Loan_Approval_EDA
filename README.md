@@ -58,7 +58,7 @@ Loan_Approval_EDA.ipynb:
 
 Loan_Approval_Report.md
 
-Key Insights and Patterns 
+Key Insights and Patterns <br>
 │ <br>
 ├─► Income Distributions <br>
 ├─► Loan Amount Term <br>
