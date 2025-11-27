@@ -70,7 +70,7 @@ Assumes all variables coded and transformed correctly (e.g., "Y"/"N" to 1/0).
 
 Assumes credit history is an objective record, though it may not always reflect true financial stability.
 
-## Causal Limitations
+## Other Limitations
 
 The analysis is mainly correlational, causal influences cannot be definitively established (e.g., credit history vs. actual repayment ability).
 
