@@ -52,7 +52,7 @@ Based on the insights above, actionable strategies for banks and financial insti
 
 ## Segment Product Offerings
 
-Target loan products towards the largest applicant segments (lower-income groups, 360-month tenure, smaller loan amounts, having credit history), as these are most successful and represent the bulk of demand.​
+Target loan products towards the largest applicant segments (lower-income groups, 360-month tenure, smaller loan amounts, having credit history, married, educated), as these are most successful and represent the bulk of demand.​
 
 Provide financial education and counseling to applicants in higher risk segments (low income, no/poor credit history or first time borrowers).
 
@@ -75,4 +75,4 @@ Assumes credit history is an objective record, though it may not always reflect 
 The analysis is mainly correlational, causal influences cannot be definitively established (e.g., credit history vs. actual repayment ability).
 
 ## Conclusion and Next Steps
-This analysis provides valuable direction for data-driven home loan approval policies. Key findings emphasize the importance of credit history and reveal concentration in lower income, smaller loan, and default tenure segments. However, the sample does not capture all market variations.
+This analysis provides valuable direction for data-driven home loan approval policies. Key findings emphasize the importance of credit history and reveal concentration in lower income, smaller loan, default tenure segments, educated and married applicants with applications for properties in urban and semi-urban areas to attract the ideal loan seekers. However, the sample does not capture all market variations.
